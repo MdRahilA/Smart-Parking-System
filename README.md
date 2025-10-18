@@ -10,6 +10,13 @@
 
 ![Made with STM32](https://img.shields.io/badge/Made%20with-STM32-blue)
 ![IoT Project](https://img.shields.io/badge/Category-IoT-lightgrey)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/MdRahilA/Smart-Parking-System)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MdRahilA/Smart-Parking-System)
+![GitHub language count](https://img.shields.io/github/languages/count/MdRahilA/Smart-Parking-System)
+![Top language](https://img.shields.io/github/languages/top/MdRahilA/Smart-Parking-System)
+![GitHub contributors](https://img.shields.io/github/contributors/MdRahilA/Smart-Parking-System)
+
 ---
 
 ## 📘 Overview
