@@ -81,6 +81,44 @@ It improves both **safety** and **parking-space utilization** through automated 
   - `vehicle_count.c` – ultrasonic sensor logic  
   - `display.c` – OLED I²C interface  
   - `fire_alert.c` – temperature sensing and alarm control
+  - 
+
+
+  ---
+
+## 📸 Project Demo & Results
+
+<table>
+<tr>
+<td align="center">
+  <img src="assets/team_working_on_stm32.jpg" width="400"/><br>
+  <sub><b>Development Setup — STM32 Programming</b></sub>
+</td>
+<td align="center">
+  <img src="assets/system_block_diagram.png" width="400"/><br>
+  <sub><b>System Architecture Overview</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="assets/logic_flowchart.png" width="400"/><br>
+  <sub><b>System Logic Flow</b></sub>
+</td>
+<td align="center">
+  <img src="assets/team_working_on_stm32.jpg" width="400"/><br>
+  <sub><b>Testing Phase — OLED & Sensor Integration</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 Key Observations
+- Counting accuracy: **98%+** in controlled testing.  
+- Fire alert threshold: **Triggered at 45°C.**  
+- OLED messages update dynamically every second.  
+- System power draw: **< 80 mA average.**
+
 
 ---
 
