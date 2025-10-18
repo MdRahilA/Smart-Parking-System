@@ -6,7 +6,7 @@
 </div>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/Smart-Parking-System?color=brightgreen)
-![GitHub license](https://img.shields.io/github/license/your-username/Smart-Parking-System)
+![GitHub license](https://img.shields.io/github/LICENSE/A MOHAMMED RAHIL/Smart-Parking-System)
 ![Made with STM32](https://img.shields.io/badge/Made%20with-STM32-blue)
 ![IoT Project](https://img.shields.io/badge/Category-IoT-lightgrey)
 ---
