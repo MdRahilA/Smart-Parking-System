@@ -13,6 +13,15 @@ It improves both **safety** and **parking-space utilization** through automated 
 
 ---
 
+## Architecture
+
+## 🧱 System Block Diagram
+![System Block Diagram](assets/system_block_diagram.png)
+
+## 🔄 Logic Flowchart
+![Logic Flowchart](assets/logic_flowchart.png)
+
+
 ## ⚙️ Features
 - 🚗 **Automatic Vehicle Counting** – Ultrasonic sensors detect entry and exit.  
 - 🖥️ **Real-time OLED Display** – Shows current availability and system alerts.  
