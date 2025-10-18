@@ -22,7 +22,7 @@ It improves both **safety** and **parking-space utilization** through automated 
 ![Logic Flowchart](assets/daigram/logic_flowchart.png)
 
 ## 📸 Project Build and Testing
-![Team Working on STM32 Prototype](assets/daigram/working.jpg)
+![Team Working on STM32 Prototype](assets/daigram/working.png)
 
 
 
