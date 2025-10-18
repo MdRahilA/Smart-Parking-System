@@ -1,0 +1,37 @@
+# --- STM32CubeIDE / GCC ---
+/Debug/
+/Release/
+/build/
+/.out/
+/.settings/
+/.metadata/
+/.gpdsc
+*.launch
+*.map
+*.elf
+*.hex
+*.bin
+*.list
+*.o
+*.d
+
+# --- IDEs / OS ---
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# --- Logs & temp ---
+*.log
+*.tmp
+*.swp
+
+# --- Python helper scripts (if any) ---
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# --- Docs exports ---
+docs/*.pdf
