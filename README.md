@@ -86,30 +86,6 @@ It improves both **safety** and **parking-space utilization** through automated 
 
   ---
 
-## 📸 Project Demo & Results
-
-<table>
-<tr>
-<td align="center">
-  <img src="assets/team_working_on_stm32.jpg" width="400"/><br>
-  <sub><b>Development Setup — STM32 Programming</b></sub>
-</td>
-<td align="center">
-  <img src="assets/system_block_diagram.png" width="400"/><br>
-  <sub><b>System Architecture Overview</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <img src="assets/logic_flowchart.png" width="400"/><br>
-  <sub><b>System Logic Flow</b></sub>
-</td>
-<td align="center">
-  <img src="assets/team_working_on_stm32.jpg" width="400"/><br>
-  <sub><b>Testing Phase — OLED & Sensor Integration</b></sub>
-</td>
-</tr>
-</table>
 
 ---
 
