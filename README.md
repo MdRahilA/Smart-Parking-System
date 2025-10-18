@@ -16,10 +16,10 @@ It improves both **safety** and **parking-space utilization** through automated 
 ## Architecture
 
 ## 🧱 System Block Diagram
-![System Block Diagram](assets/Daigram/system_block_diagram.png)
+![System Block Diagram](assets/daigram/system_block_diagram.png)
 
 ## 🔄 Logic Flowchart
-![Logic Flowchart](assets/Daigram/logic_flowchart.png)
+![Logic Flowchart](assets/daigram/logic_flowchart.png)
 
 
 ## ⚙️ Features
